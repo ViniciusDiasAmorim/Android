@@ -1,2 +1,2 @@
 # Android
- Artigo simples realizado em hml
+ Artigo simples realizado em html
