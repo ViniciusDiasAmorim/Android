@@ -1,8 +1,5 @@
 # Android
-# Pagina simples criado com html e css.
-# Projeto desenvolvido no curso de html e css modulo 02, do Curso em Video.
+## Pagina simples criado com html e css.
+## Projeto desenvolvido no curso de html e css modulo 02, do Curso em Video.
 
-Apesar de simples essa página foi fundamental para desenvolver minhas skills,
- me fazendo compreender melhor a importância de conceitos como o da psicologia das cores
- aplicados em páginas web e a importância da semântica no html e aprimorar a estilização com css.
-
+Página criada para desenvolver minhas skills, nesta página foram aplicados conceitos de desenvolvimento web, como psicologia e harmonia das cores, também foi trabalhado a semântica do html e a estilização do css.
